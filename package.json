@@ -1,0 +1,11 @@
+{
+  "name": "do-action-list-undo-on-failure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc --build tsconfig.json && node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
